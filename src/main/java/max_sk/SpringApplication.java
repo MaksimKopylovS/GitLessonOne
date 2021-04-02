@@ -6,6 +6,6 @@ public class SpringApplication {
         System.out.println("Экстренное исправление");
         System.out.println("HotFix");
         System.out.println("Zakonchil modifikaciu v Spring");
-
+        System.out.println("Rabora v master verke Commit ONe");
     }
 }
