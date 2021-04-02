@@ -11,5 +11,6 @@ public class SpringApplication {
         System.out.println("Rabora v Spring vetke Commit One");
         System.out.println("Rabora v Spring vetke Commit Two");
         System.out.println("Rabora v Summer vetke Commit One");
+        System.out.println("Rabora v Summer vetke Commit Two");
     }
 }
