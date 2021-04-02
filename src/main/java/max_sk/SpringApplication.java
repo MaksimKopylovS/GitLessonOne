@@ -9,5 +9,6 @@ public class SpringApplication {
         System.out.println("Rabora v master verke Commit ONe");
         System.out.println("Rabora v master verke Commit Two");
         System.out.println("Rabora v Spring vetke Commit One");
+        System.out.println("Rabora v Spring vetke Commit Two");
     }
 }
